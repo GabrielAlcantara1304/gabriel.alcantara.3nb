@@ -1,0 +1,1 @@
+C:\Users\ghalcantara\OneDrive\ -\ AYESA\Documentos\facul\gabriel.alcantara.3nb\prova_pratica\target\debug\prova_pratica.exe: C:\Users\ghalcantara\OneDrive\ -\ AYESA\Documentos\facul\gabriel.alcantara.3nb\prova_pratica\src\main.rs
