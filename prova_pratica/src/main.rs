@@ -1,7 +1,3 @@
-//NIVEL 1
-
-
-
 
 //NIVEL 2
 
@@ -62,10 +58,15 @@ impl Lista {
 fn main() {
 
     //NIVEL 1
-    let mut listanivel1: [i32; 10] = [34, 7, 23, 32, 5, 62, 31, 12, 43, 3];
+    let mut listanivel1 = [34, 7, 23, 32, 5, 62, 31, 12, 43, 3];
+    
     println!("Array original (nivel1): {:?}", listanivel1);
-    listanivel1.sort();
-     println!("Array ordenado (nivel1): {:?}", listanivel1);
+    listanivel1.sort_unstable();
+    println!("Array ordenado (nivel1): {:?}", listanivel1 );
+
+    listanivel1.sort_unstable();
+    
+
     //FIM DO NIVEL 1
 
 
